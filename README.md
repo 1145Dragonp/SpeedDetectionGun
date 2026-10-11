@@ -1,4 +1,4 @@
-### Go download the mod from Modrinth [download](https://modrinth.com/mod/speeddetectiongun-mrmagicdragon/versions)
+### Go download the mod from Modrinth [Download](https://modrinth.com/mod/speeddetectiongun-mrmagicdragon/versions)Now
 # Speed detection gun
 
 **Speed detection gun** is a lightweight client-side mod for Minecraft that adds a functional **speed detection gun**. When held, it displays your current movement speed in the top-left corner of the screen. You can also track other entities, so you can measure how fast mobs, players, or other creatures are moving.
